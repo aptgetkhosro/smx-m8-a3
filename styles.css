@@ -25,10 +25,28 @@ li:hover {
     transform: scale(1.01);
 }
 
-.alta {
+.Alta {
 	background: red;
 }
 
-.baixa {
+.Baixa {
 	background: green;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+input, select {
+    padding: .5em 1em;
+    border-radius: 8px;
+}
+
+.bguay {
+    background-color: hotpink;
+    color: white;
+    border: 0;
+    padding: .675em 1em;
+    box-shadow: 0px 0px 8px rebeccapurple;
 }
